@@ -1,5 +1,5 @@
 # TEAMXAE
 
 Madmapper
-Supercollier
+Supercollider
 Osculator
