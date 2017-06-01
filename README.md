@@ -1,1 +1,5 @@
 # TEAMXAE
+
+Madmapper
+Supercollier
+Osculator
